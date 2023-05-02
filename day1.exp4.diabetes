@@ -1,0 +1,4 @@
+data<-read.csv("diabetes.csv")
+View(data)
+hist(data$SkinThickness)
+scatter.smooth(data$SkinThickness,data$Age)
