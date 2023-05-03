@@ -1,5 +1,0 @@
-names=c("suni","dhanu")
-age=c(18,19)
-marks=c(936,890)
-df=data.frame(names,age,marks)
-View(df)
