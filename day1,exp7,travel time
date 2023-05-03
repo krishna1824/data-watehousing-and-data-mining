@@ -1,6 +1,0 @@
-data<-read.csv("travel-times.csv")
-View(data)
-summary(data)
-mean(data$Maxspeed)
-hist(data$GoingTo)
-scatter.smooth(data$GoingTo,data$Distance)
