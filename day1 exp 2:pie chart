@@ -1,3 +1,0 @@
-labels=c("athars","dheeras","samudras","moghals","rajyas")
-data=c (23,45,80,67,38)
-pie(data,labels,main="simam pie chart",radius=0.8)
